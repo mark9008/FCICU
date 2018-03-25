@@ -1,10 +1,16 @@
-//M 1000
-//D 500
-//C 100
-//L 50
-//X 10
-//V 5
-//I 1
+/*
+Author: Mark Samuel Shawki
+ID: 20170206
+Group: 8
+Purpose: Sort 4 numbers, converting from Roman Numeric system to Arabic Numeric system.
+*/
+//M = 1000
+//D = 500
+//C = 100
+//L = 50
+//X = 10
+//V = 5
+//I = 1
 #include <iostream>
 #include <string>
 void sortingNumbers();
