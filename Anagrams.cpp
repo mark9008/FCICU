@@ -1,5 +1,11 @@
-// Anagrams.cpp : Defines the entry point for the console application.
-//
+// Course:  CS213 - Programming II  - 2018
+// Title:   Assignment I - Task 3 - Problem 6
+// Program: CS213-2018-A1-T1-P2
+// Purpose: check if two phrases are anagrams or not
+// 	    Anagrams: two phrases with same letters but different arrangement of letters.
+// Author:  Mark Samuel Shawki
+// Date:    9/10/2018
+// Version: 1.0
 
 #include <iostream>
 #include <cstring>
