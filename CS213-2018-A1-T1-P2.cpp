@@ -1,9 +1,11 @@
 // Course:  CS213 - Programming II  - 2018
-// Title:   Assignment I - Task 1 - Problem 0
-// Program: CS213-2018-A1-T1-P0
-// Purpose: Skeleton code for the student to start working
-// Author:  Dr. Mohammad El-Ramly
-// Date:    10 August 2018
+// Title:   Assignment I - Task 1 - Problem 2
+// Program: CS213-2018-A1-T1-P2
+// Purpose: Processing functions and operations on matrices
+// Author1:  Mark Ihab Ayad
+// Author2:  Mark Samuel Shawki
+// Author3:  Mario Osama Fayez
+// Date:    9/10/2018
 // Version: 1.0
 
 #include <iostream>
